@@ -7,7 +7,7 @@ Set-up PySpark using 4 methods -
 3. Databricks Notebook System
 4. AWS EMR Notebook
 
-Implemented Machine Learning Techniques -
+Implemented Machine Learning Techniques using PySpark -
 1. Linear Regression
 2. Logistic Regression
 3. Decision Trees and Random Forests
