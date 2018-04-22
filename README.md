@@ -11,12 +11,10 @@ Implemented Machine Learning Techniques using PySpark -
 1. Linear Regression
 2. Logistic Regression
 3. Tree Methods
-$$\begin{enumerate}
-\item tree
-\end{enumerate}
-$$Decision Trees and Random Forests
-4. Gradient Boosted Trees
-5. K-means Clustering
-6. Recommender Systems
-7. Natural Language Processing
-8. Spark Streaming (Local and Twitter)
+    i. Decision Trees 
+    ii. Random Forests
+    iii. Gradient Boosted Trees
+4. K-means Clustering
+5. Recommender Systems
+6. Natural Language Processing
+7. Spark Streaming (Local and Twitter)
