@@ -1,4 +1,4 @@
-# Spark-and-Python-for-Big-Data-with-PySpark
+# Spark and Python for Big Data with PySpark
 A well-constructed summary of the learnings from the course Spark and Python for Big Data with PySpark.
 
 Set-up PySpark using 4 methods - 
