@@ -17,5 +17,5 @@ iii. Gradient Boosted Trees
 4. K-means Clustering
 5. Recommender Systems
 6. Natural Language Processing
-7. Spark Streaming (Local and Twitter)
+7. Spark Streaming via Twitter
 
